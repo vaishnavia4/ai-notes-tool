@@ -1,0 +1,3 @@
+This is a sample file. It has a few sentences in it.
+The quick brown fox jumps over the lazy dog.
+We will use this file to test reading text from disk.
